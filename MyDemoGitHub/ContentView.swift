@@ -16,8 +16,10 @@ struct ContentView: View {
             Text("Hello, world!")
             Text("This is to show how to commit chnages in Github")
             Text("In can commit and push one time")
+            
         }
         .padding()
+        .font(.largeTitle)
     }
 }
 
